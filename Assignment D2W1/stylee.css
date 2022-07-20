@@ -75,3 +75,42 @@
     display: flex;
     justify-content: space-between;
 }
+.email-input-cont{
+    width: 300px;
+    height: 40px;
+    border-radius: 35px;
+    background-color: rgb(68, 68, 68);
+    padding-left: 15px;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.email-input-cont input{
+    width: 150px;
+    height: 100%;
+    font-size: 14px;
+    color: white;
+    border: none;
+    outline: none;
+    background-color: transparent;
+
+
+}
+.send-button{
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    border-radius: 35px;
+    border: 0px solid rgb(255, 255, 255);
+    background-color: orange;
+    font-size: 14px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+}
