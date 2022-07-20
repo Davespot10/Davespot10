@@ -1,0 +1,72 @@
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    
+}
+.item{
+  
+    color: black;
+    font-size: 20px;
+    color: white;
+    
+   
+}
+.first{
+    
+    margin-top: 20px;
+    margin-left: 00px;
+
+
+}
+.im1{
+
+}
+.inst{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+
+}
+.inst2{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.glyphicon{
+    color:orange;
+}
+.material-icons{
+    color: orange;
+}
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    color: white;
+
+}
+.flex-in{
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+}
+.send{
+    background-color: orange;
+    padding: 10px;
+    margin-left: -10px;
+    border-radius: 30%;
+
+
+}
+.email{
+    border-radius: 20%;
+    color: black;
+}
+.line{
+    opacity: 0.5;
+
+}
