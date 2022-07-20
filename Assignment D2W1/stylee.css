@@ -53,6 +53,7 @@
     padding: 10px;
     margin: 5px;
     font-size: 20px;
+    color: white;
 }
 .send{
     background-color: orange;
@@ -69,4 +70,8 @@
 .line{
     opacity: 0.5;
 
+}
+.flex-between{
+    display: flex;
+    justify-content: space-between;
 }
