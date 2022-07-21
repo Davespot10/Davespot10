@@ -86,8 +86,9 @@
 
 }
 .styling-background{
-    background-image:url(Image/bankk3.jpeg);
+    background-image:url(Image/atm.webp);
     opacity: 0.8;
+    height: 100px;
     margin-top: 15px;
     padding-top: 100px;
     padding-bottom: 1000px;
