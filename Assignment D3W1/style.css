@@ -11,8 +11,13 @@
     background-color:rgb(9, 85, 35);
     color: white;
 
-
 }
+#sticky{
+    position: sticky;
+    top: 0;
+}
+
+
 .top{
     margin-top: 10px;
     color: rgb(9, 85, 35);
