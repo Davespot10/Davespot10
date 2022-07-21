@@ -107,6 +107,7 @@
     width: 180px;
     height: 40px;
 }
+
 .login-page-styling #flex-forgot-password{
     color:rgb(9, 85, 35) ;
     text-decoration: none;
@@ -119,4 +120,9 @@
     margin-right: 10px;
 
 
+}
+#select-Option{
+    
+    
+    
 }
